@@ -2,6 +2,7 @@
   "name": "portfolio",
   "private": true,
   "scripts": {
+    "build": "ng build",
     "start": "ng serve",
     "dev": "npm run start",
     "build-dev": "ng build",
