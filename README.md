@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, projects, and experience as a web developer.
 
 ## 🚀 Live Demo
-👉 https://deepakad12.github.io/My_Portfolio/
+👉 https://my-portfolio-mauve-beta-75.vercel.app/
 
 ## 🛠️ Tech Stack
 - HTML
